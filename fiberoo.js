@@ -1,5 +1,5 @@
 function fib() {
-  let first = 1;
+  let first = 0;
   let sec = 1;
   let third = 0;
   const array = [];
